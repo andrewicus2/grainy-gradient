@@ -1,4 +1,11 @@
-# Recode PWA Boilerplate
+# Grainy Gradients
+
+Gradient generator and PWA written using p5.js
+
+
+
+
+# PWA Boilerplate
 
 This repo is a Progressive Web App boilerplate for the [ReCode](https://billythemusical.github.io/recode-fa22) class. It provides the most basic functionality for a PWA, complete with the following necesary files:
 - a service worker (`sw.js`)
